@@ -9,7 +9,10 @@
 # DETAILS:
 # This code generates the data, runs TEAM, and plots the avg Sensitivity
 # across layers and FDR for each of the three local settings: shift, dispersion, 
-# and shift+dispersion. 
+# and shift+dispersion. The 25 quantiles seen in Figure 3 are fixed beforehand.
+# For each setting, we generate a single random draw from that setting's 
+# corresponding normal mixture and compute the quantiles. Even though the quantiles
+# are random, they do not change much across repetitions.
 #
 ###################################################################################
 
