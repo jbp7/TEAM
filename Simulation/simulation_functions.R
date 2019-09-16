@@ -11,7 +11,7 @@
 ############# LIBRARIES ################
 library(ks)
 library(MRS)
-source("~/TEAM.R")
+library(TEAM)
 
 run_simulation_layer <- function(nreps,params,L,K,alpha.vec){
   

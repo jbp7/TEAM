@@ -39,7 +39,7 @@ library(MRS)
 library(ggplotify)
 library(ggplot2)
 library(UpSetR)
-source("~/TEAM.R")
+library(TEAM)
 source("~/case_study_functions.R")
 
 ####################  READ IN DATA #######################
