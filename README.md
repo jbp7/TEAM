@@ -17,4 +17,4 @@ TEAM2D.R takes in two dataframes from case (df1) and control (df0). Each datafra
 
 The Simulation folder contains the code to reproduce the simulations in the paper above.
 
-The EQAPOL folder contains the code to reproduce the data analysis on the 11 individuals, as mentioned in the paper above. The case and control flow cytometry samples for the 11 individuals can be accessed via https://duke.box.com/s/vex1m5ogwyt966adldb27tk5snslqns8.
+The EQAPOL folder contains the code to reproduce the data analysis on the 11 individuals, as mentioned in the paper above. The case (CMV pp65) and control (Costim) flow cytometry samples for the 11 individuals can be accessed via https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D141FU.
