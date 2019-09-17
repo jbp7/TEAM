@@ -11,6 +11,8 @@ You can install `TEAM` from CRAN with:
 
     install.packages("TEAM")
 
+Please see the `TEAM` reference guide in CRAN for details.
+
 TEAM2D.R takes in two dataframes from case (df1) and control (df0). Each dataframe contains two columns, one for each marker. The user inputs the number of breaks, m, to be created in each direction, as well as the FDR level, alpha, and number of layers, L. To use `TEAM2D.R` simply source the file in the working environment.
 
 The Simulation folder contains the code to reproduce the simulations in the paper above.
