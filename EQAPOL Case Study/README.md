@@ -9,7 +9,7 @@ where Two Distributions Differ (https://arxiv.org/pdf/1906.07757.pdf)
 
 ## Instructions
 
-To reproduce the above items
+To reproduce the data analysis:
 
     1) Install the TEAM package from CRAN using "install.packages("TEAM")"
     2) Source the file "case_study_functions.R"
