@@ -7,6 +7,13 @@ Table S1 and Figures S1-S9 in the Supplementary Material of the accompanying pap
 Pura, Chan, Xie (2019) Multiple Testing Embedded in an Aggregation Tree to Identify
 where Two Distributions Differ (https://arxiv.org/pdf/1906.07757.pdf)
 
-To reproduce the above items, 1) install the `TEAM` package from `CRAN` : `install.packages("TEAM")`, 2) source `case_study_functions.R`, and 3) run the code in `run_EQAPOL_case_study.R`.
+## Instructions
+
+To reproduce the above items
+
+    1) Install the TEAM package from CRAN using "install.packages("TEAM")"
+    2) Source the file "case_study_functions.R"
+    3) Run the code in "run_EQAPOL_case_study.R"
+    
 Additional details are contained in the header of each file. 
 
